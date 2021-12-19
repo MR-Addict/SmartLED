@@ -1,4 +1,4 @@
-# WS2812LED Smart LED Matrix
+# WS2812LED Smart LED Matrix ![badge](https://img.shields.io/badge/SmartLED-WS2812-<COLOR>.svg)
 
 ## 1. Description
 
