@@ -4,6 +4,8 @@
 
 In this projects , I use a 16X16 LED matrix to find more possibilities on WS2812 LED.
 
+Not only access through WIFI , but also display Text and Sprite based on my previous projects.
+
 ## 2. Preparations
 
 ### 2.1 Libraries:
@@ -69,3 +71,7 @@ Before you run processing code , you should make sure that you connect ESP32 Net
 ![Processing Panel](Images/Processing%20Panel.jpg)
 
 ## 5. Videos
+
+https://user-images.githubusercontent.com/75357598/146681347-1d74eff5-21d2-497a-acc3-ee54a236c3f4.mp4
+
+https://user-images.githubusercontent.com/75357598/146681358-3732c3e6-0380-4569-a18e-5ad6a07ee59a.mp4
