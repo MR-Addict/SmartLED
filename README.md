@@ -4,15 +4,15 @@
 
 In this projects , I use a 16X16 LED matrix to find more possibilities on WS2812 LED.
 
-Not only access through WIFI , but also display Text and Sprite based on my previous projects.
+Not only added WIFI , but also can display Text and Sprite based on my previous projects.
 
 ## 2. Preparations
 
 ### 2.1 Libraries:
 
-You must install FastLED and three more libraries that I write in my github pages.
+You must install FastLED and three more libraries that I written in my github pages.
 
-About how to use my custom libraries , you can also go to  my github pages.
+About how to use my custom libraries , you should check it out at my github pages.
 
 - [FastLED](https://github.com/FastLED/FastLED.git)
 - [LEDMatrix](https://github.com/MR-Addict/WS2812LED-Matrix-Library.git)
@@ -62,11 +62,11 @@ You can use four buttons to control your LED matrix , buttons' functons are belo
 |Button4|Next Mode|
 
 ### 4.3 Control With UI:
-In order to more easily control LED Matrix and use *WIFI* , I designed a UI to control Matrix written in porceesing language which in `Processing` folder.
+In order to more easily control LED Matrix and use `WIFI` , I designed a UI to control Matrix written in porceesing language which in `Processing` folder.
 
-Using this Panel We can also activate *Snake Game* and *Draw Mode* that buttons are not easily do.
+With UI , We can also activate `Snake Game` and `Draw Mode` that buttons are not easily to do.
 
-Before you run processing code , you should make sure that you connect ESP32 Network which is `LED Matrix` and tht password is `123456789` by default.
+Before you run processing code , make sure that you have connectted ESP32's Network which is `LED Matrix` and the password is `123456789` by default.
 
 ![Processing Panel](Images/Processing%20Panel.jpg)
 
